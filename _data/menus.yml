@@ -1,21 +1,12 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Blog"
+    url: "https://www.ethghost.com/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Dashboard"
+    url: "https://dashboard.ethghost.com/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2

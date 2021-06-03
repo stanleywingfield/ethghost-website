@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Self-hostable",
+    "description": "Self host your own instance if you prefer to keep everything under your control.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Trustless",
+    "description": "Settle your own payment through smart contract and not depend on any operator.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "ERC20 support",
+    "description": "Starting with DAI and USDC, with support for more ERC20s in the future.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

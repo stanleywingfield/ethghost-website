@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Ethereum Ghost
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+description: Ethereum Ghost enables crypto subscription payment on your Ghost blog.
+intro_image: "images/illustrations/screenshot.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Ethereum Ghost
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Add Ethereum Subscription Payments to Ghost.
